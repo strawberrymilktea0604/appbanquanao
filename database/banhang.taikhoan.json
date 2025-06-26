@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "685ade732422b81cc9d6222a"
+  },
+  "tendn": "admin",
+  "matkhau": "1234",
+  "quyen": "admin"
+},
+{
+  "_id": {
+    "$oid": "685ade742422b81cc9d6222b"
+  },
+  "tendn": "bacvu",
+  "matkhau": "1111",
+  "quyen": "user"
+},
+{
+  "_id": {
+    "$oid": "685ade742422b81cc9d6222c"
+  },
+  "tendn": "quan",
+  "matkhau": "1111",
+  "quyen": "user"
+},
+{
+  "_id": {
+    "$oid": "685ade742422b81cc9d6222d"
+  },
+  "tendn": "dinh",
+  "matkhau": "111",
+  "quyen": "user"
+},
+{
+  "_id": {
+    "$oid": "685ade742422b81cc9d6222e"
+  },
+  "tendn": "bac",
+  "matkhau": "111",
+  "quyen": "user"
+},
+{
+  "_id": {
+    "$oid": "685ade742422b81cc9d6222f"
+  },
+  "tendn": "d",
+  "matkhau": "1",
+  "quyen": "user"
+}]

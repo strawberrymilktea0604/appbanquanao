@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "685ade742422b81cc9d6224b"
+  },
+  "id_dathang": 1,
+  "tenkh": "quan",
+  "diachi": "tqtqtq",
+  "sdt": "545454",
+  "tongthanhtoan": 230000,
+  "trangthai": "2025-06-21 14:56:11",
+  "ngaydathang": 2
+},
+{
+  "_id": {
+    "$oid": "685ade742422b81cc9d6224c"
+  },
+  "id_dathang": 2,
+  "tenkh": "quan",
+  "diachi": "qyyqyw",
+  "sdt": "3121212",
+  "tongthanhtoan": 900000,
+  "trangthai": "2025-06-21 15:01:52",
+  "ngaydathang": 2
+},
+{
+  "_id": {
+    "$oid": "685ade742422b81cc9d6224d"
+  },
+  "id_dathang": 3,
+  "tenkh": "quan",
+  "diachi": "ayyaya",
+  "sdt": "545454",
+  "tongthanhtoan": 177000,
+  "trangthai": "2025-06-21 15:15:32",
+  "ngaydathang": 3
+}]
