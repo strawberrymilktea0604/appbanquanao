@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # App Bán Quần Áo - Android + Node.js Backend
 
 Dự án ứng dụng bán quần áo với Android frontend và Node.js backend sử dụng MongoDB.
@@ -155,3 +156,7 @@ Khi chạy lần đầu, có thể tạo tài khoản admin:
 - API hỗ trợ upload ảnh base64
 - Sử dụng UUID cho các ID thay vì auto-increment
 - Retrofit xử lý async calls, cần callback handling
+=======
+# appbanquanao
+Code rác vãi l đừng ai để ý =)) chưa code xong đâu
+>>>>>>> 341150cd1f916ea9321e0b6be3e58519b233bbc3
