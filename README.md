@@ -158,5 +158,8 @@ Khi chạy lần đầu, có thể tạo tài khoản admin:
 - Retrofit xử lý async calls, cần callback handling
 =======
 # appbanquanao
+<<<<<<< HEAD
 Code rác vãi l đừng ai để ý =)) chưa code xong đâu
 >>>>>>> 341150cd1f916ea9321e0b6be3e58519b233bbc3
+=======
+>>>>>>> 41ea773e5a65593dff73e26b2c3adfd2fafd75ed
